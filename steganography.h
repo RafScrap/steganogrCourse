@@ -1,0 +1,5 @@
+#include "opencv2/steganography/bmp.hpp"
+#include "opencv2/steganography/bmpCode.hpp"
+#include "opencv2/steganography/bmpDecode.hpp"
+#include "opencv2/steganography/pngCode.hpp"
+#include "opencv2/steganography/pngDecode.hpp"
